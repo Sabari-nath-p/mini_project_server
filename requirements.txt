@@ -1,3 +1,6 @@
 firebase-admin
 google-cloud-firestore
 pytz
+Flask
+APScheduler
+gunicorn
